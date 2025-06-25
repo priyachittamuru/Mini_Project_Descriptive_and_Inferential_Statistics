@@ -1,8 +1,6 @@
-# Mini_Project_Descriptive_and_Inferential_Statistics
+#  📊 Mini Project: Descriptive and Inferential Statistics
+
 Descriptive and Inferential Statistics mini project covering central tendency, dispersion, confidence intervals, and hypothesis testing. Includes manual calculations and Python-based implementation in a Google Colab notebook.
-
-# 📊 Mini Project: Descriptive and Inferential Statistics
-
 This project is designed to build foundational understanding of Descriptive and Inferential Statistics through manual and Python-based approaches using a Google Colab notebook.
 
 ---
